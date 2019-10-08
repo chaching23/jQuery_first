@@ -1,0 +1,14 @@
+.mami{
+    border-bottom: 4px solid black; 
+}
+.butt{
+    display: inline-block;
+    margin-top: 60px; 
+}
+.a{
+    display: inline-block;
+}
+.fire{
+    color:red; 
+    font-size:150%; 
+}
